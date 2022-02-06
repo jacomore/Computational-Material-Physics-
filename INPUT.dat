@@ -1,0 +1,7 @@
+30	! Number of basis functions
+5	! ENergy of the soft potential in a.u
+-0.5	! left edge of the soft potential barrier
+0.5     ! right edge of the right potential barrier
+5 	! number of eigenvalues/eigenvectors to print out
+V	! if N = only eigenvalues, if V = eigenvalues + eigenvectors
+1	! if V, the integer selects the wavefunction that is printed out
